@@ -1,0 +1,64 @@
+// Common
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Back" = "Back";
+"Next" = "Next";
+"Start" = "Start";
+"Finish" = "Finish";
+"Error" = "Error";
+"Hint" = "Hint";
+"Delete" = "Delete";
+
+// Hearing Test
+"Hearing Test" = "Hearing Test";
+"Current Frequency" = "Current Frequency";
+"Current Volume" = "Current Volume";
+"Press when you hear a sound" = "Press when you hear a sound";
+"Heard" = "Heard";
+"Start Test" = "Start Test";
+"Pause Test" = "Pause Test";
+"Audio engine failed to start" = "Audio engine failed to start";
+"Maximum volume reached, please switch to the next frequency" = "Maximum volume reached, please switch to the next frequency";
+
+// Test History
+"Test History" = "Test History";
+"No Test Records" = "No Test Records";
+"No Matching Results" = "No Matching Results";
+"Search by date or hearing level" = "Search by date or hearing level";
+"Sort By" = "Sort By";
+"Date (Latest)" = "Date (Latest)";
+"Date (Oldest)" = "Date (Oldest)";
+"Severity (Low to High)" = "Severity (Low to High)";
+"Severity (High to Low)" = "Severity (High to Low)";
+"Delete Record" = "Delete Record";
+"Are you sure you want to delete this record?" = "Are you sure you want to delete this record?";
+
+// Results
+"Results" = "Results";
+"LOADING_ANALYSIS" = "AI Analysis in Progress...";
+"AI_ANALYSIS_IN_PROGRESS" = "AI Analysis in Progress...";
+"NORMAL" = "Normal";
+"MILD" = "Mild";
+"MODERATE" = "Moderate";
+"SEVERE" = "Severe";
+"PROFOUND" = "Profound";
+"HEARING_RESULT_TITLE" = "Test Results";
+
+// Analysis
+"Professional Analysis" = "Professional Analysis";
+"Average Hearing Loss: %.1f dB" = "Average Hearing Loss: %.1f dB";
+"yyyy年MM月dd日 HH:mm" = "MM/dd/yyyy HH:mm";
+"Hearing Analysis Report" = "Hearing Analysis Report";
+"Test Time: " = "Test Time: ";
+"Hearing Level: " = "Hearing Level: ";
+"Professional Analysis:" = "Professional Analysis:";
+
+// Share
+"Hearing Test Results" = "Hearing Test Results";
+"Test Time" = "Test Time";
+"Frequency (Hz) | Threshold (dB)" = "Frequency (Hz) | Threshold (dB)";
+"Average Hearing Loss" = "Average Hearing Loss";
+"Hearing Level" = "Hearing Level";
+"AI_ANALYSIS" = "AI Analysis";
+"NO_LOSS" = "Normal";
+"SEVERE_LOSS" = "Severe";
